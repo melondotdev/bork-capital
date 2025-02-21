@@ -15,8 +15,7 @@ export function Footer() {
           <div className="col-span-1 md:col-span-3">
             <h3 className="text-2xl font-bold mb-4">Bork Capital</h3>
             <p className="text-gray-400 mb-6 max-w-md">
-              Betting on Communities &amp; Supporting the Future
-              Join us in building the future of memecoin economies.
+              Betting on Communities. Join us in building the future of memecoin economies.
             </p>
             <div className="flex gap-4">
               <a
