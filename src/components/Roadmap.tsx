@@ -20,7 +20,7 @@ const milestones: Milestone[] = [
     description: "Launch of essential community tools and initial onboarding for early adopters.",
     status: 'current',
     features: [
-      "Interactive socialfi dashboard",
+      "Interactive socialfi platform",
       "Early partnership announcements",
       "User-friendly onboarding experience"
     ]
